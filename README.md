@@ -12,4 +12,4 @@ I just wanted to try [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
 
 Output example:
 
-[Output](https://github.com/mattbrepo/SonicPiTest/out.mp4)
+https://github.com/mattbrepo/SonicPiTest/blob/main/out.mp4
