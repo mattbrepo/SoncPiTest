@@ -1,5 +1,5 @@
 # SonicPiTest
-Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi)
+Test using [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi).
 
 **Language: Ruby**
 
